@@ -1,0 +1,23 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "Passport.js authentication \"shell\" for apps requiring user auth.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brianw0991/Authentication.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brianw0991/Authentication/issues"
+  },
+  "homepage": "https://github.com/brianw0991/Authentication#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}
